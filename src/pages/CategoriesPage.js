@@ -5,8 +5,6 @@ import NavbarComponent from '../components/NavbarComponent'
 import CategoriesComponent from '../components/CategoriesComponent'
 
 
-import ComponentA from '../components/ComponentA'
-
 import ComponentB from '../components/ComponentB'
 
 import ComponentC from '../components/ComponentC'

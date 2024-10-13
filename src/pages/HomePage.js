@@ -5,7 +5,7 @@ import NavbarComponent from '../components/NavbarComponent'
 
 import HomeComponent from '../components/HomeComponent'
 
-import AboutUsComponent from '../components/AboutUsComponent'
+
 
 import ComponentA from '../components/ComponentA'
 

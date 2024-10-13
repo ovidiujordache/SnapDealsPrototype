@@ -11,7 +11,7 @@ import ShoppingCartComponent from './ShoppingCartComponent'
 
 
 const NavbarComponent =({children})=>{
- const navigate = useNavigate();
+
   return(
 
     <>

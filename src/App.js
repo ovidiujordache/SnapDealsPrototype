@@ -2,9 +2,6 @@
 import React from 'react';
 import './App.css';
 
-import NavbarComponent from './components/NavbarComponent'
-
-import HomePage from './pages/HomePage'
 
 
 
